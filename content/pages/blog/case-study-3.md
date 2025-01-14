@@ -1,5 +1,5 @@
 ---
-title: Bruce banner
+title: Bruce Banner
 slug: case-study-3
 date: '2021-11-18'
 excerpt: >-
