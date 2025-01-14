@@ -59,7 +59,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Contact us to see what we can do for you
     items:
       - type: FeaturedItem
         title: Custom Training Plan
